@@ -1,0 +1,3 @@
+0 0 28 * *  /usr/bin/python3 /etc/periodic/ftp_import.py
+30 0 */7 * * /usr/bin/python3 /etc/periodic/mysql_import.py
+30 0 28 * *  /usr/bin/python3 /etc/periodic/wordstat_import.py
